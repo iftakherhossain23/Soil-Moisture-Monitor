@@ -7,7 +7,7 @@ Adafruit_SSD1306 display(OLED_RESET);
 //SDA - A4
 //SCK - A5
 
-const int sensorPin = A5; // Define analog pin for the soil moisture sensor
+const int sensorPin = A0; // Define analog pin for the soil moisture sensor
 const int ledPin = 9; // Define pin for the LED
 const int threshold = 500; // Define threshold moisture value
 
