@@ -12,7 +12,7 @@ This Arduino program monitors soil moisture levels using an analog soil moisture
 ## Pin Connections
 | Component          | Arduino Pin |
 |--------------------|-------------|
-| Soil Moisture Sensor Signal | A5         |
+| Soil Moisture Sensor Signal | A0         |
 | OLED Display SDA   | A4         |
 | OLED Display SCK   | A5         |
 | LED                | 9          |
